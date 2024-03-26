@@ -27,3 +27,8 @@ nav > .wrapper {
     padding: 0px;
     justify-content: space-between;
 }
+
+.menu > ul > li > a {
+    text-decoration: none;
+    color: black;
+}
