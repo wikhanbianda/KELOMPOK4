@@ -8,8 +8,15 @@ body {
 .wrapper {
     width: 1024px;
     margin: auto;
-
+    padding: 20px 0px 20px 0px;
 }
+
+nav {
+    background-color: #222831;
+    color: #fff;
+}
+
+
 
 nav > .wrapper {
     display: flex;
@@ -32,5 +39,5 @@ nav > .wrapper {
 
 .menu > ul > li > a {
     text-decoration: none;
-    color: black;
+    color: #fff;
 }
