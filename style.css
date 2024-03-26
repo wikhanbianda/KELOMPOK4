@@ -20,3 +20,10 @@ nav > .wrapper {
     width: 50%;
     border: 1xp solid;
 }
+
+.menu > ul {
+    display: flexx;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
